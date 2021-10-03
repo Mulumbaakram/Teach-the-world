@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Welcome to our tour company</title>
+<style type="text/css">
+.auto-style1 {
+	margin-top: 0px;
+}
+</style>
+</head>
+
+<body>
+We are glad tha you chose our company to take you through the tourism pplaces in Uganda
+
+<div class="div1">
+    <form method="post" action="">
+    Name of Tourist:<input name="TName" type="text" />
+    
+    </form>
+   
+</div>
+
+
+
+
+
+Here are the places you will visit;
+Kidepo
+<marquee behaviour="scroll"direction="left" style="height: 227px">HTML marquee...</marquee>
+</body>
+
+</html>

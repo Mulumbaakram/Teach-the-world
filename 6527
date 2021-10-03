@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Untitled 1</title>
+</head>
+<HTML> <!-- Demonstration of ordered Lists -->
+<HEAD><TITLE>ordered List</TITLE></HEAD>
+<BODY>
+<H2 ALIGN=”center”>Web Site Outline</H2>
+<OL>
+<LI>Home page
+<LI>Links page
+<OL>
+<LI>Links to search engines
+<LI>Links to information sites
+<OL>
+<LI>News sites
+<OL>
+<LI>TV based
+<OL>
+<LI>CNN
+<LI>BBC
+</OL>
+<LI>Text based
+<OL>
+<LI>New York Times
+<LI>Washington Post
+</OL>
+</OL>
+<LI>Stock sites
+</OL>
+<LI>Links to “fun” site
+</OL>
+<LI>Feedback page
+<LI>Contact page
+<LI>HTML example page
+</OL>
+
+<body></HTML>
+
+
+</body>
+
+</html>

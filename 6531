@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Untitled 1</title>
+</head>
+<body background="../../../BIRTHDAY CO ARNOLD NABBINGO/New folder/DSC_0401.JPG">
+<H2>Personal computer</H2>
+<UL><li><pre>
+NAme School Meal Card no class
+===================================
+Kaye Jovan
+Manzi Rodney
+</pre>
+</li>Graphical Table
+<TABLE border="1"><TR><th>NAME</th>
+<th>School</th>
+<th>Meal Card no</th>
+<th>CLASS</th>
+</TR>
+name:<input name="Text1" type="text" /><br>
+<textarea name="TextArea1" cols="20" rows="2"></textarea><br>
+<input name="Button1" type="button" value="Comment" />
+<tr><td>Kaye Jovan</td>
+<td>JOSEPH'S NABBINGO</td>
+<td>012364587</td><td>P.7</td>
+</tr>
+<tr><td>Manzi Rodney
+</td>
+<td>BUDDO.SSS</td>
+<td>7821655895</td>
+<td>S.6</td>
+</TABLE>
+<br>
+<img src="../../../BIRTHDAY CO ARNOLD NABBINGO/New folder/DSC_0401.JPG"width="498"height="548"ALT="MY PHOTO"</tr>
+
+</UL>
+<p>
+<href="PAGE5.html">
+<img src="../../../BIRTHDAY CO ARNOLD NABBINGO/New folder/DSC_0401.JPG"border="0"width ="117"height="45"</P>
+</p>
+<body>
+
+</body>
+
+</html>
